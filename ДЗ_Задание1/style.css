@@ -1,0 +1,46 @@
+img {
+    float:left; /* Выравнивание по левому краю */
+    margin: 40 px; /* Отступы вокруг картинки */
+    border-radius: 30px;
+    border: 2px solid #35322D;
+    padding: 5px;
+   }
+body{
+    background-color: #FFF5E3;
+    color: #35322D;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.me{
+    margin-top: 100px;
+    text-indent:30px;
+}
+.soft{
+    margin-top: 180px;
+}
+
+.fact{
+    margin-top: 30px;
+    text-indent:30px;
+}
+
+ol{
+    text-indent:60px; 
+}
+li{
+    text-indent:60px;
+    list-style-type: '👉';
+    padding-inline-start: 1ch;
+}
+
+.rat{
+    margin-right: 30px;
+    border-radius: 30px;
+    border: 2px solid #35322D;
+    padding: 5px;
+}
+.comp{
+    float: right; 
+    border-radius: 30px;
+    border: 2px solid #35322D;
+    padding: 5px;
+}
